@@ -9,6 +9,6 @@ Because there is no official Classes to access the shell of the Operating System
 2. Dont Forget to add the Oscs.cs file during your compilation incase you use it in your project.
 
 # SCREEN SHOTS
-[!"screenshots/Screenshot_2022-11-02_19-03-10.png"]
+[!(screenshots/Screenshot_2022-11-02_19-03-10.png)]
 
 
