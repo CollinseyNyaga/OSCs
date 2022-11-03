@@ -7,6 +7,8 @@ Because there is no official Classes to access the shell of the Operating System
 # USAGE 
 1. Pick the Oscs.cs file and Copy it to your project directory. 
 2. Dont Forget to add the Oscs.cs file during your compilation incase you use it in your project.
+3. To launch a process / program from the command line shell of the os , 
+
 
 # SCREEN SHOTS
 ![screenshot1](screenshots/Screenshot_2022-11-02_19-03-10.png)
