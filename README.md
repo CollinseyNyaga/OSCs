@@ -10,6 +10,7 @@ Because there is no official Classes to access the shell of the Operating System
 3. To launch a process / program from the shell of the os , You have to instantiate OsShell class found in the Oscs namespace. 
 
     <code>Oscs.OsShell osShell = new Oscs.OsShell();</code>
+4. Call the OsShell.Launch() method on the OsShell object 
 
 
 
